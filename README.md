@@ -1,6 +1,5 @@
 # Welcome to the course
 
-## Overview
 Welcome to INFO474, Interactive Data Visualization.  This is a course at the University of Washington's [Information School](https://ischool.uw.edu/), and these materials were developed by [Michael Freeman](http://mfviz.com/#/).  The purpose of this course is to teach students the necessary conceptual and technical skills to **design** and **build** interactive data visualizations on the web.  While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone exploring tools to build visualizations on the web.  
 
 
